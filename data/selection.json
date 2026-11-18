@@ -1,0 +1,15 @@
+{
+  "status": "confirmed",
+  "source": "top30.csv",
+  "excluded_unique_ids": [
+    "E08_L13_R2",
+    "E04_L14_R1",
+    "E04_L20_R1",
+    "E03_L11_R2",
+    "E10_L12_R1",
+    "E02_L12_R1"
+  ],
+  "remaining_count": 24,
+  "ordering": "original ipSAE descending then ipTM descending",
+  "original_files_modified": false
+}

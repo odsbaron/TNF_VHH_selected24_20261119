@@ -1,0 +1,44 @@
+{
+  "design_ids": [
+    "E01_L13_R1",
+    "E10_L18_R1",
+    "E09_L11_R2",
+    "E01_L20_R2",
+    "E02_L13_R2",
+    "E05_L13_R2",
+    "E09_L11_R1",
+    "E03_L18_R2",
+    "E06_L13_R1",
+    "E07_L11_R2",
+    "E02_L19_R1",
+    "E04_L13_R2",
+    "E09_L19_R1",
+    "E10_L20_R2",
+    "E08_L18_R1",
+    "E06_L14_R1",
+    "E06_L15_R1",
+    "E08_L13_R1",
+    "E07_L16_R1",
+    "E10_L11_R1",
+    "E04_L17_R1",
+    "E01_L13_R2",
+    "E03_L17_R1",
+    "E04_L16_R2"
+  ],
+  "count": 24,
+  "structures_per_design": {
+    "rfd4_design": 1,
+    "opendde_monomer_complex": 1,
+    "esmfold2_trimer_complex": 1,
+    "rigid_trimer_placements": 3
+  },
+  "structure_files_total": 144,
+  "excluded": [
+    "E08_L13_R2",
+    "E04_L14_R1",
+    "E04_L20_R1",
+    "E03_L11_R2",
+    "E10_L12_R1",
+    "E02_L12_R1"
+  ]
+}

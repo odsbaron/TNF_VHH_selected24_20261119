@@ -1,0 +1,80 @@
+{
+  "source_commit": "6fc44c060ef96d4c759bafeaa1eae1a66a5be67c",
+  "model_repository": "nvidia/RFD4-Proteina",
+  "model_revision": "a06e2509c7033b010fc43614e9fd840303588502",
+  "local_checkpoint_hash_computed": false,
+  "native_python_api": "rfproteina.generate.run_generation(cfg, model=resident_model)",
+  "optional_oracles_enabled": false,
+  "request": {
+    "input": {
+      "type": "condition_spec",
+      "designs": {
+        "E09_L19": {
+          "input": [
+            "1TNF.cif",
+            "H.cif"
+          ],
+          "input_as_annotated_cif": false,
+          "contig": "A6-157, /0, B6-157, /0, C6-157, /0, H1-22, CDR1:13-13, H24-37, CDR2:9-10, H39-75, CDR3:19-19, H77-86",
+          "conditions": {
+            "C_CRDGRP": {
+              "1": [
+                {
+                  "select": "sel('H/*/*/[N,CA,C,O]') and not has_nan_coord()"
+                }
+              ],
+              "2": [
+                {
+                  "select": "sel('A/*/*/[N,CA,C,O]') and not has_nan_coord()"
+                },
+                {
+                  "select": "sel('B/*/*/[N,CA,C,O]') and not has_nan_coord()"
+                },
+                {
+                  "select": "sel('C/*/*/[N,CA,C,O]') and not has_nan_coord()"
+                }
+              ]
+            },
+            "C_SEQ": {
+              "true": [
+                {
+                  "select": "sel('A') or sel('B') or sel('C')"
+                },
+                {
+                  "select": "sel('H') and res_name != 'CDR1' and res_name != 'CDR2' and res_name != 'CDR3'"
+                }
+              ]
+            },
+            "C_HOT": {
+              "true": [
+                {
+                  "select": "sel('B/*/87/CB')"
+                },
+                {
+                  "select": "sel('B/*/90/CB')"
+                },
+                {
+                  "select": "sel('C/*/146/CB')"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "references": {
+        "1TNF.cif": "2754e819553d42a4b7dd579099781a31",
+        "H.cif": "423ccd3d001041c9bc3ebf303299793c"
+      }
+    },
+    "seed": 26111419,
+    "num_replicates": 2,
+    "batch_size": 1,
+    "nsteps": 60,
+    "recycle_strategy": "thinking_high",
+    "recycles": null,
+    "precision": "bf16-mixed",
+    "compress_outputs": false,
+    "save_trajectory_every": 0
+  },
+  "publication_note": "Retained model identity and original request; omitted deployment host, paths, PID/GPU identifiers and service reference IDs. Reference CIF files are in inputs/reference/."
+}

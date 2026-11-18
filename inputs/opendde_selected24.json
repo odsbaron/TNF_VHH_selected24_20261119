@@ -1,0 +1,698 @@
+[
+  {
+    "name": "E04_L17_R1",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYAMGWVRQAPGKGLEWVSAISTGGSTSYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARRKNGSLYYYADDFDYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E06_L13_R1",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSAISTGGSTDYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARTSSFYDYDYSYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E08_L13_R1",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYGMSWVRQAPGKGLEWVSAISTGGSTDYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARGYYFYPSYFDYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E09_L11_R1",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSNYYMTWVRQAPGKGLEWVSYINTGGSYTYYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARAYSPYHYPYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E09_L19_R1",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYAMGWVRQAPGKGLEWVSVITTGGSTNYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARSNYYYSSAPSYEPYFDYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E02_L13_R2",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSNYDMGWVRQAPGKGLEWVSAISTGGSTNYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARYSAYGYSNFDYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E04_L13_R2",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSNYDMGWVRQAPGKGLEWVSSISTGGSTNYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARYDPYSSFWYPYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E07_L11_R2",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYAMGWVRQAPGKGLEWVSSISTGGSTNYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARDASSSFWDYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E09_L11_R2",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYSMGWVRQAPGKGLEWVSSISWGGSTNYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARDVSYYDWDYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E06_L14_R1",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYAMGWVRQAPGKGLEWVSAISSGGSTDYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCAKNDIFYGSSSYDYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E07_L16_R1",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSNYAMGWVRQAPGKGLEWVSAISSSGGTTYYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARVSYFSSSTVYFYDDRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E08_L18_R1",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSNYAMAWVRQAPGKGLEWVSAITTGGTTYYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCAKSSYPAYVYTDPDYYPYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E10_L18_R1",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSNYAMAWVRQAPGKGLEWVSVITTGGSTYYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARHSSPAYYSYDADDYPYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E01_L20_R2",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSDYAMGWVRQAPGKGLEWVSAINSSGGTTYYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARMSSSFPSASALSADLFTYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E01_L13_R1",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSNYDMSWVRQAPGKGLEWVSSISTGGSTNYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARYDPHSSSWYPYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E02_L19_R1",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYAMGWVRQAPGKGLEWVSAISYGGTTYYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARSLYYYVSSSLTADDFDYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E03_L17_R1",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYAMGWVRQAPGKGLEWVSAITSGGYTSYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARLKSGADYTSADNYDYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E06_L15_R1",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYAMGWVRQAPGKGLEWVSAISTGGSTNYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARSSALYTDPRYFDYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E10_L11_R1",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSDYGMTWVRQAPGKGLEWVSYITWSGGSTYYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARADSPYSYDYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E01_L13_R2",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYAMGWVRQAPGKGLEWVSAISTGGSTSYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARYVYANYHYYDYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E05_L13_R2",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSNYAMGWVRQAPGKGLEWVSVISTGGSTDYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARGSYSLSLDWSYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E03_L18_R2",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYAMGWVRQAPGKGLEWVSVITTGGSTNYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARWDGTNFYNITPDDFTYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E04_L16_R2",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSNYAMGWVRQAPGKGLEWVSAISSGGSTDYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARQSSDGGLSADNFSYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  },
+  {
+    "name": "E10_L20_R2",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": []
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSNYAMGWVRQAPGKGLEWVSGISYSGGYTYYPDSVKGRFTISRDNAKNTLYLQMNSLRPEDTAVYYCARDVYAYTSSPYSDPSYYDYRGQGTLVTVS",
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "modifications": []
+        }
+      }
+    ],
+    "covalent_bonds": []
+  }
+]
